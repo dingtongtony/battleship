@@ -36,3 +36,5 @@ SHIP_INFO = [
     ("Cruiser", 3),
     ("Patrol Boat", 2)
 ]
+
+FOUR_DIRECTION = [(0,-1), (-1,0), (0,1), (1,0)]
