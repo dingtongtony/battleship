@@ -10,4 +10,4 @@ Full project instructions can be found in instructions.org
 
 ## Usage
 
-To run the program type `python battleship.py`
+To run the program type `python battleship_ai.py`
